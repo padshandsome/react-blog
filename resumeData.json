@@ -1,0 +1,197 @@
+{
+  "main": {
+    "name":"Mengmeng Liu",
+    "description":"I am a data/machine learning engineer. I have passion in delivering end-to-end data science/machine learning solutions to the industry, and breaking down the communication barriers between academia and real-world",
+    "image":"profilepic.jpg",
+    "bio":" I work as a data engineer in the healthcare insurance industry. Recently graduated from Johns Hopkins University with a master degree in Data Science. I have a strong mathematical background, also am proficient in Python and advanced SQL with experience in full stack data engineering projects. ",
+    "contactmessage":"If you are instersted in collaboration, please don't hesitate to contact.",
+    "email": "mengmengliu24@gmail.com",
+    "phone": "410-585-7689",
+    "github":"https://github.com/padshandsome",
+    "project":"https://github.com/padshandsome?tab=repositories",
+    "address":{
+      "street":"Newport",
+      "city":"Jersey City",
+      "state":"New Jersey",
+      "zip": "07310"
+    },
+    "website": "https://padshandsome.github.io/react-blog",
+    "resumedownload":".././mengmengliu-DataEngineerResume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/padshandsome",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://github.com/padshandsome",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mengmeng-liu-8a84681a2/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://github.com/padshandsome",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/padshandsome",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Johns Hopkins University",
+        "degree":"Master's in Data Science",
+        "graduated":"December 2022",
+        "description":"Teaching Assistant: EN.553.636 Introduction to Data Science (Grad Level); Led weekly discussion sections for around 20 students, prepared homework and exam topics, graded students' homework and exams."
+      },
+      {
+        "school":"University of Electronic Science and Technology of China",
+        "degree":"Bachelor's in Applied Mathematics",
+        "graduated":"July 2020",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Healthcare Risk Advisors",
+        "title":"Data Engineer",
+        "years":"Feb 2023 - Present",
+        "description":["Developed real-time machine learning services for a new web portal, including a data quality scoring and alerting service for loss run files. Achieved 95% accuracy and resulting in significant improvement in the quality of processed data. Utilized Azure MLflow and Databricks serving endpoints to manage and optimize.",
+        "Created a Python package for Azure Databricks Feature Store and MLflow API to enable seamless model development and deployment. Worked with data science team to integrate models into production environment.",
+        "Collaborated closely with cross-functional teams to understand and complete their data requirements, answer technical questions about data models, and develop customized Power BI reports and DAX formulas",
+        "Managed end-to-end data pipeline operations for the data compliance tool, ensuring consistent data quality and availability",
+        "Worked as a member of a development team to create a web application using React and JavaScript. Contributed to project planning and agile development processes with Microsoft DevOps."]
+    }
+    ,
+      {
+        "company":"Healthcare Risk Advisors",
+        "title":"Data Engineer Intern",
+        "years":"Jun 2022 – Dec 2022",
+        "description":["Built a data compliance tool using PySpark, Spark SQL and power BI to empower the business team to effectively verify data quality and compliance with around 70 compliance rules for over 8,000 human-coded healthcare cases. This tool enabled the team to quickly and accurately identify data errors and efficiently correct them, resulting in a 50% reduction in data errors."]
+      },
+      {
+        "company":"Yimian by Ascential",
+        "title":"Data Analyst Intern",
+        "years":"Dec 2020 – May 2021",
+        "description":["Developed and refactored auto data cleaning pipeline for O2O e-commerce project using Python and Impala SQL, increased data and pipeline reuse rate by 30%; Conduct O2O data asset project sharing meeting.",
+        "Researched and trained unsupervised item image classification model by Pytorch with accuracy around 75%; Deployed through designing RESTful API by Flask, Gunicorn and docker, reduced repeated image cleaning and labelling process by 80%"]
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      },
+      {
+        "name":"Data Modeling",
+        "level":"70%"
+      },
+      {
+        "name":"MLops: MLflow, Azure Databricks, Docker",
+        "level":"70%"
+      },
+      {
+        "name":"pySpark",
+        "level":"50%"
+      },
+      {
+        "name":"Frontend: React, HTML, CSS and Javascript",
+        "level":"30%"
+      },
+      {
+        "name":"PowerBI",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
