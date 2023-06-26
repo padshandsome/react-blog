@@ -1,7 +1,7 @@
 {
   "main.css": "/react-blog/static/css/main.7902f80d.chunk.css",
-  "main.js": "/react-blog/static/js/main.36eea76e.chunk.js",
-  "main.js.map": "/react-blog/static/js/main.36eea76e.chunk.js.map",
+  "main.js": "/react-blog/static/js/main.70584646.chunk.js",
+  "main.js.map": "/react-blog/static/js/main.70584646.chunk.js.map",
   "static/js/1.0f42ad21.chunk.js": "/react-blog/static/js/1.0f42ad21.chunk.js",
   "static/js/1.0f42ad21.chunk.js.map": "/react-blog/static/js/1.0f42ad21.chunk.js.map",
   "static/js/2.c32bd150.chunk.js": "/react-blog/static/js/2.c32bd150.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/react-blog/static/js/runtime~main.7d540517.js.map",
   "static/css/main.7902f80d.chunk.css.map": "/react-blog/static/css/main.7902f80d.chunk.css.map",
   "index.html": "/react-blog/index.html",
-  "precache-manifest.2b2f7105d82558ae028e08960a8f53e4.js": "/react-blog/precache-manifest.2b2f7105d82558ae028e08960a8f53e4.js",
+  "precache-manifest.b3331ad1a600997b8f011718efa6b52c.js": "/react-blog/precache-manifest.b3331ad1a600997b8f011718efa6b52c.js",
   "service-worker.js": "/react-blog/service-worker.js"
 }
